@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2048Drop</string>
+    <string name="toLeft"><![CDATA[<]]></string>
+    <string name="toRight"><![CDATA[>]]></string>
+    <string name="drop">drop</string>
+    <string name="confirm">Conform</string>
+    <string name="confirm_new_game">Start a new Game?</string>
+    <string name="confirm_no">NO</string>
+    <string name="confirm_yes">YES</string>
+    <string name="new_high">New High！</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tsLg">20sp</dimen>
+    <dimen name="tsMd">16sp</dimen>
+    <dimen name="tsSm">12sp</dimen>
+</resources>
